@@ -47,3 +47,6 @@ once you've setup authorised requests and installed the libraries.
 ## Acknowledgments
 
 * @plamere for spotipy
+* a note: this is not new. It has been done before: Organize Your Music is a user friendly app that does this, and more: http://organizeyourmusic.playlistmachinery.com/ 
+
+
